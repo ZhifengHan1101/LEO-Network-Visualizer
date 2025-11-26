@@ -18,8 +18,6 @@ You can follow the steps below to visualize your custom constellations:
 
 5. **Start the server:** Install **Node.js** and **http-server**. Then, navigate to the application directory and start the server:
 
-   Bash
-
    ```
    cd ./CesiumAPP
    http-server -p 8081
